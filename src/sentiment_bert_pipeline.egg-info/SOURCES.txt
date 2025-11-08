@@ -1,6 +1,10 @@
+README.md
 setup.py
 src/sentiment_bert_pipeline/__init__.py
 src/sentiment_bert_pipeline/data_extraction.py
+src/sentiment_bert_pipeline/data_processing.py
+src/sentiment_bert_pipeline/inference.py
+src/sentiment_bert_pipeline/model.py
 src/sentiment_bert_pipeline.egg-info/PKG-INFO
 src/sentiment_bert_pipeline.egg-info/SOURCES.txt
 src/sentiment_bert_pipeline.egg-info/dependency_links.txt

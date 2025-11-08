@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: sentiment_bert_pipeline
+Version: 0.1.0
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: torch
+Requires-Dist: transformers
+Requires-Dist: datasets
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-cov; extra == "dev"
+Requires-Dist: black; extra == "dev"
+Requires-Dist: flake8; extra == "dev"
+Requires-Dist: isort; extra == "dev"
+Dynamic: provides-extra
+Dynamic: requires-dist
